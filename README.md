@@ -1,6 +1,6 @@
 ## Aluno: Rafael Frassetto Pereira
 
-## Professor : Ramon Venson
+## Professor : Ramon Venson - Segunda-Feira
 
 ## Descrição 
 
