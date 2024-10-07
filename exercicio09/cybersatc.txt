@@ -1,0 +1,2 @@
+
+Ransomware: O ataque WannaCry, que ocorreu em 2017, atingiu mais de 200.000 computadores em 150 países. Ele sequestrou arquivos em sistemas que apresentavam vulnerabilidades e pedia um pagamento em criptomoedas para liberá-los. O efeito foi catastrófico, com hospitais, empresas e órgãos governamentais paralisando suas atividades, o que resultou em grandes perdas financeiras e comprometimento de dados sensíveis.
